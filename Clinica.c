@@ -82,6 +82,7 @@ int main (int argc, char *argv[])
   
   // LeerPacientes(lista); // Guarda toda la informacion del archivo Pacientes.
   //LeerHistorialClinico(historial); //Guarda toda la informacion del archivo Historial Clinico.
+  printf("La clinica más chida en el mundo"); //Se aclara que es una de las mejores clinicas
 
   printf("\n\n                          \e[41m+++++++++++++++\e[m");
   printf("\n			  \e[41m+++++++++++++++\e[m");
